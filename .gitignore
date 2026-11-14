@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Fichiers .dot et .png produits par les tests : voir graphes/.gitignore
+
+# Système et IDE
+.DS_Store
+.vscode/
+.idea/

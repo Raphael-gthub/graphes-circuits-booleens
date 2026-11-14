@@ -1,0 +1,3 @@
+# Les fichiers produits par les tests ne sont pas versionnés
+*
+!.gitignore
